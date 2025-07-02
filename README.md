@@ -11,8 +11,12 @@ A web application built with Python and Streamlit to classify hotel reviews as e
 
 ## 📸 Screenshot
 
- 
-*Replace the URL above with a link to a screenshot of your running application.*
+ ![image](https://github.com/user-attachments/assets/dd33b6c8-4a7c-4aad-8aa5-d408af514f02)
+
+![image](https://github.com/user-attachments/assets/9c17a676-509e-492a-b28a-716b06416a69)
+
+![image](https://github.com/user-attachments/assets/9cf8c67f-28bf-4c56-a394-1d9cf0fa20a4)
+
 
 ---
 
